@@ -1,2 +1,2 @@
 # DataScienceProjects
-my data science attempts
+Predicting Survival Rates in Titanic Dataset
